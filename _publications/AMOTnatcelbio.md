@@ -2,7 +2,7 @@
 title: "Microtubule architecture connects AMOT stability to YAP/TAZ mechanotransduction and Hippo signalling"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/AMOTnatcelbio
 excerpt: 'Paper on mechanosensing.'
 date: 2025-10-01
 venue: 'Nature Cell Biology'
