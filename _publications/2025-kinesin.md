@@ -8,7 +8,7 @@ date: 2025-10-01
 venue: 'Nature Communications'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Atherton et al. (2025). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Atherton et al. (2025). &quot;Microtubule association induces a Mg-free apo-like ADP pre-release conformation in kinesin-1 that is unaffected by its autoinhibitory tail.&quot; <i>Nature Communications</i>. (2025).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
