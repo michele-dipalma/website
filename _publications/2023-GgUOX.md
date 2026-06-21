@@ -7,7 +7,7 @@ excerpt: 'Uric acid is the main means of nitrogen excretion in uricotelic verteb
 date: 2023-09-11
 venue: 'Molecular Biology and Evolution'
 paperurl: 'https://academic.oup.com/mbe/article/40/9/msad200/7269092'
-citation: 'Mori et al. &quot;Cysteine enrichment mediates co-option of uricase in reptilian skin and transition to uricotelism.&quot; <i>Molecular Biology and Evolution</i> (2023).'
+citation: 'Mori et al. &quot;Cysteine enrichment mediates co-option of uricase in reptilian skin and transition to uricotelism&quot; <i>Molecular Biology and Evolution</i> (2023).'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
