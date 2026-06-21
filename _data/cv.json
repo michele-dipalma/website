@@ -33,35 +33,26 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Padova",
+      "area": "Ph.D in Biomedical Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Padova",
+      "area": "Integrated Master's Degree in Pharmaceutical Chemistry and Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2018",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [English, Italian],
   "interests": [],
   "references": [],
   "publications": [
